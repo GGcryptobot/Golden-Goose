@@ -26,3 +26,12 @@ The Goose runs on your PC or VPS. Your sensitive info will never leave your home
 # Real Profit
 
 The Goose will show you real profits, pre-calculate commissions and be working hard for you 24/7.
+
+
+# What makes the Golden Goose bot different from all the other bots?
+
+The Golden Goose bot is the only bot that uses our DMCA ( Deep Market Capitalization Analysis ) algorithm to drastically improve the buying process.
+
+# What is DMCA ?( Deep Market Capitalization Analisys )
+
+Along with technical analysis, professional traders and hedge funds utilize systems that analyse the market capitalization data of companies/projects. The Goose employs a special algorithm that does just this for cryptocurrencies, in real time.
